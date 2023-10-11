@@ -5,17 +5,18 @@ body{
 }
 .wrapper{
     width: 100%;
-    height: 100vh;
 }
 .my-box{
-    width: 710px;
-    height: 1000px;
-    border: 2px solid black;
+    width: 900px;
 }
 .my-small-box{
     width: 100px;
     height: 100px;
     display: inline-block;
+    margin: 10px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 100px;
 }
 .my-bg-orange{
     background-color: orange;
